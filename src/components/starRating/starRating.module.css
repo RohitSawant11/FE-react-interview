@@ -1,0 +1,6 @@
+.cointainer {
+    display: flex;
+    align-items: center;
+    width: 140px;
+    justify-content: space-between;
+}

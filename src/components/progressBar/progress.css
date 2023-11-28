@@ -1,0 +1,27 @@
+.progress__bar {
+    width: 500px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    border: 1px solid;
+    overflow: hidden;
+}
+
+.bar {
+    background-color: green;
+    height: 100%;
+}
+
+.value {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: inherit;
+}
+
+.progressBar__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

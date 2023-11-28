@@ -1,0 +1,11 @@
+.btn {
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 1.69em 1.69em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
